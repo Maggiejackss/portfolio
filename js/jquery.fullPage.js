@@ -8,6 +8,7 @@
 (function($, window, document, Math, undefined) {
     'use strict';
 
+
     // keeping central set of classnames and selectors
     var WRAPPER =               'fullpage-wrapper';
     var WRAPPER_SEL =           '.' + WRAPPER;
